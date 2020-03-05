@@ -1,0 +1,3 @@
+Drop the ‘i_hire_date’ index.
+
+drop i_hire_date;
